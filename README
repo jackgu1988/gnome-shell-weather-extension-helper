@@ -1,0 +1,6 @@
+In order to use:
+
+$ chmod +x weather.sh
+$ ./weather.sh "<name of city>"
+
+(without <>)
